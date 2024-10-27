@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
 import Login from "../components/Login"
-import Logout from "./Logout";
+import Logout from "../components/Logout";
 import { useAuth } from "../context/AuthProvider";
 
 function Navbar() {
