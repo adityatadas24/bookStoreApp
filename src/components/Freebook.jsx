@@ -78,7 +78,7 @@ function Freebook() {
         </h1>
         <p className="text-justify text-sm">
           Unlock free courses with every book purchase! Learn and grow with our
-          exclusive, limited-time offer today.
+          exclusive, limited-time offer today only.
         </p>
       </div>
       <div >
